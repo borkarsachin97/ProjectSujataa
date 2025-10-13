@@ -1,0 +1,22 @@
+{
+  "volume": 40,
+  "project": "Project_Sujataa",
+  "speeches": [
+    {
+      "speech_number": 233,
+      "title": "जो लोग करोड़ों लोगों को अछूत और अपराधी मानते हो, उन्हें आजादी मांगने का हक नहीं",
+      "audio": "233.mp3",
+      "subtitles": "233.srt",
+      "thumbnail": "233.png",
+      "duration": "05:04"
+    },
+    {
+      "speech_number": 234,
+      "title": "कार्यकुशल न भी हों तो चलेगा, लेकिन लोग निष्ठावान होने चाहिए",
+      "audio": "234.mp3",
+      "subtitles": "234.srt",
+      "thumbnail": "234.png",
+      "duration": "13:03"
+    }
+  ]
+}
