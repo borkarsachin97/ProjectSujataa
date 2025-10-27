@@ -5,18 +5,38 @@
     {
       "speech_number": 233,
       "title": "जो लोग करोड़ों लोगों को अछूत और अपराधी मानते हो, उन्हें आजादी मांगने का हक नहीं",
-      "audio": "https://raw.githubusercontent.com/borkarsachin97/ProjectSujataa/refs/heads/main/Vol%2040/233.mp3",
-      "subtitles": "https://raw.githubusercontent.com/borkarsachin97/ProjectSujataa/refs/heads/main/Vol%2040/233.srt",
-      "thumbnail": "https://raw.githubusercontent.com/borkarsachin97/ProjectSujataa/refs/heads/main/Vol%2040/233.png",
-      "duration": "05:04"
+      "audio": "https://raw.githubusercontent.com/borkarsachin97/ProjectSujataa/refs/heads/main/Vol%2040/aud/233.mp3",
+      "subtitles": "https://raw.githubusercontent.com/borkarsachin97/ProjectSujataa/refs/heads/main/Vol%2040/sbtl/233.srt",
+      "thumbnail": "https://raw.githubusercontent.com/borkarsachin97/ProjectSujataa/refs/heads/main/Vol%2040/thmnl/233.png",
+      "duration": "05:04",
+      "page": "20"
     },
     {
       "speech_number": 234,
       "title": "कार्यकुशल न भी हों तो चलेगा, लेकिन लोग निष्ठावान होने चाहिए",
-      "audio": "https://raw.githubusercontent.com/borkarsachin97/ProjectSujataa/refs/heads/main/Vol%2040/234.mp3",
-      "subtitles": "https://raw.githubusercontent.com/borkarsachin97/ProjectSujataa/refs/heads/main/Vol%2040/234.srt",
-      "thumbnail": "https://raw.githubusercontent.com/borkarsachin97/ProjectSujataa/refs/heads/main/Vol%2040/234.png",
-      "duration": "13:03"
+      "audio": "https://raw.githubusercontent.com/borkarsachin97/ProjectSujataa/refs/heads/main/Vol%2040/aud/234.mp3",
+      "subtitles": "https://raw.githubusercontent.com/borkarsachin97/ProjectSujataa/refs/heads/main/Vol%2040/sbtl/234.srt",
+      "thumbnail": "https://raw.githubusercontent.com/borkarsachin97/ProjectSujataa/refs/heads/main/Vol%2040/thmnl/234.png",
+      "duration": "13:03",
+      "page": "22"
+    },
+    {
+      "speech_number": 235,
+      "title": "स्वराज्य के लिए मेरा बिलकुल विरोध नहीं, हां, स्वराज्य में हमें भी हिस्सेदारी मिलनी चाहिए",
+      "audio": "https://raw.githubusercontent.com/borkarsachin97/ProjectSujataa/refs/heads/main/Vol%2040/aud/235.mp3",
+      "subtitles": "https://raw.githubusercontent.com/borkarsachin97/ProjectSujataa/refs/heads/main/Vol%2040/sbtl/235.srt",
+      "thumbnail": "https://raw.githubusercontent.com/borkarsachin97/ProjectSujataa/refs/heads/main/Vol%2040/thmnl/235.png",
+      "duration": "11:06",
+      "page": "27"
+    },
+    {
+      "speech_number": 347,
+      "title": "बुद्ध या कार्ल मार्क्स",
+      "audio": "https://raw.githubusercontent.com/borkarsachin97/ProjectSujataa/refs/heads/main/Vol%2040/aud/347.mp3",
+      "subtitles": "https://raw.githubusercontent.com/borkarsachin97/ProjectSujataa/refs/heads/main/Vol%2040/sbtl/347.srt",
+      "thumbnail": "https://raw.githubusercontent.com/borkarsachin97/ProjectSujataa/refs/heads/main/Vol%2040/thmnl/347.png",
+      "duration": "31:40",
+      "page": "493"
     }
   ]
 }
